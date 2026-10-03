@@ -1,0 +1,17 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+.tools/
+tmp/
+dist/
+__pycache__/
+*.py[cod]
+
+Shanling_UA4_DAC/
+RK_M75_Keyboard/
+analysis/*.png
+analysis/*.log
+analysis/ua4_firmware_transport/working/
